@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto:  Miados e Mistérios: A Vida dos Gatos
 
 ## 📒 Descrição
 PodCast sobre A Vida dos Gatos
